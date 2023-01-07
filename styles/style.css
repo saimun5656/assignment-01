@@ -16,10 +16,13 @@ body{
     background-repeat:no-repeat;
     padding: 0px;
     margin: 0px;
+    
 }
 .header .container{
-   
-    padding: 216px 0px 166px 100px;
+    text-align: right;
+    padding-top: 130px;
+    padding-left: 53%;
+    padding-right: 8%;
     
 }
 .header .title{
@@ -34,7 +37,8 @@ body{
     font-weight: 900px;
 }
 .header .description{
-    width: 494px;
+padding-right: 0px;
+width: 520px;
 height: 78px;
 font-weight: 400;
 font-size: 16px;
