@@ -210,6 +210,11 @@ margin-bottom: 16px;
     margin-right:15px;
     font-size: 30px;
 }
+.footer i:hover{
+    font-size: 40px;
+    color: #F15B22;
+    margin-right: 10px;
+}
 footer input{
     background-color: #151414;
     color: #FFFFFF;
@@ -232,4 +237,11 @@ font-size: 20px;
 line-height: 24px;
 border-radius: 9px;
 display: block;
+}
+
+
+
+button:hover{
+    font-size: 28px;
+    margin-top: 8px;
 }
